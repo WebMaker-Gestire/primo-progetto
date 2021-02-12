@@ -1,0 +1,38 @@
+h1,
+p,
+.btn-primary {
+  font-family: "Roboto", sans-serif;
+}
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.logo {
+  height: 70px;
+}
+
+.nav-link {
+  color: black;
+}
+.nav-link:hover {
+  color: black;
+}
+.bg-black {
+  background-color: black;
+}
+.display-4 {
+  font-weight: 500;
+}
+.btn-primary {
+  background-color: black;
+  border: none;
+  font-weight: 300;
+}
+.decoration-1 {
+  height: 8rem;
+}
+.full-height {
+  height: 100vh;
+}
